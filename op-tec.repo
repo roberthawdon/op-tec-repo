@@ -1,0 +1,5 @@
+[op-tec]
+name=OP-TEC
+baseurl=http://yum.op-ezy.co.uk/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/OP-TEC
